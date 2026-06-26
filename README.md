@@ -1,1 +1,1 @@
-THIS is the readME for Gator
+THIS is the readme for gator
