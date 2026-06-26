@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1782399222611,
+      "tag": "0000_charming_mimic",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1782415609043,
+      "tag": "0001_useful_the_professor",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1782420175964,
+      "tag": "0002_natural_squadron_supreme",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1782480173167,
+      "tag": "0003_gorgeous_nebula",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1782483947329,
+      "tag": "0004_daily_revanche",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1782492644643,
+      "tag": "0005_sour_talos",
+      "breakpoints": true
+    }
+  ]
+}
